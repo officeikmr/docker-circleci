@@ -1,4 +1,4 @@
-FROM circleci/ruby:2.5.1-node
+FROM circleci/ruby:2.5.5-node
 
 LABEL maintainer "Daisuke Fujimura <fd0>"
 
